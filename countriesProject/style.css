@@ -1,0 +1,76 @@
+/* .flag{
+    width: 50vw;
+    height: 170px;
+} */
+.bigDiv{
+    /* position: absolute; */
+    /* padding-left: 350px; */
+    /* padding-bottom: 200px; */
+    /* padding-top: 100px; */
+    border: 1px solid black;
+    background-color: aquamarine;
+    /* margin-top: 20px; */
+    width:300px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+
+}
+
+.mydiv{
+   
+    position: relative;
+    padding-bottom: 30px;
+    padding-left: 35vw;
+}
+
+#mydiv{
+    display: inline-block;
+    position: relative;
+}
+
+.flag{
+    width: 100px; 
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+h1{
+    padding: 10px;
+    text-align: center;
+    color: red !important;
+    font-family: cursive!important;
+    font-size: 40px!important;
+}
+
+#btnAll{
+    font-size: 30px!important;
+    margin-left: 85vw;
+    position: absolute;
+    width: 100px!important;
+    top: 30vh;
+}
+
+#btnSearch{
+    font-size: 20px!important;
+    height: 40px!important;
+    position: absolute;
+   margin-left: 10px;
+   top: 31vh;
+}
+
+#myText{
+    position: absolute; 
+    font-size: 30px!important;
+    margin-left: 20vw;
+    text-align: center;
+    top: 30vh;
+}
+
+body{
+    background-image: url("img.jpg");
+    margin-left: 50px;
+}
